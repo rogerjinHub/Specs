@@ -53,7 +53,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "rogerjin" => "king2210@qq.com" }
+  s.author             = { "rogerjinHub" => "king2210@qq.com" }
   # Or just: s.author    = "rogerjinHub"
   # s.authors            = { "rogerjinHub" => "email@address.com" }
   # s.social_media_url   = "http://twitter.com/rogerjinHub"
@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "realFramework/realFramework.{h,m}"
+  s.source_files  = "realFramework/realFramework.{m,h}"
   s.exclude_files = "realFramework/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
